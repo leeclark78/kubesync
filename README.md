@@ -59,7 +59,7 @@ KubeSync is an open-source tool that provides unified, cloud agnostic Kubernetes
 
 ## ✨ Core Team
 
-- [Your Name](https://github.com/leeclark78) - Bit of everything
+- [Lee Clark](https://github.com/leeclark78) - Bit of everything
 
 ---
 
