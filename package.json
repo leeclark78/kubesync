@@ -1,0 +1,17 @@
+{
+    "name": "kubesync",
+    "private": true,
+    "workspaces": [
+      "packages/*"
+    ],
+    "scripts": {
+      "dev": "turbo run dev",
+      "build": "turbo run build",
+      "test": "turbo run test",
+      "lint": "turbo run lint"
+    },
+    "devDependencies": {
+      "turbo": "^1.12.4",
+      "typescript": "^5.3.3"
+    }
+  }
